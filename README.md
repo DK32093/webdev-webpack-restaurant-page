@@ -1,4 +1,7 @@
-# restaurant-page
-A restaurant page populated with dummy content to practice working with ESM and Webpack.
+# webdev-webpack-restaurant-page
+
+Status: Work in Progress
+
+A modular JavaScript restaurant page built to practice ES modules, Webpack bundling, and component‑based front‑end structure. The page uses placeholder content and serves as a sandbox for experimenting with modern front‑end build workflows.
 
 live preview: https://dk32093.github.io/restaurant-page/
