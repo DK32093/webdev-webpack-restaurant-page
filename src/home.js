@@ -7,7 +7,7 @@ export function home() {
     const restName = document.createElement("h1")
     restName.innerText = "Natasha's Bistro"
     const intro = document.createElement("h2")
-    intro.innerText = "Welcome to Natasha's fantatstic restaurant where she makes amazing and wonderful food for everyone!"
+    intro.innerText = "Welcome to Natasha's fantastic restaurant where she makes amazing and wonderful food for everyone!"
     titleCard.append(restName, intro)
     const homeGridContainer = document.createElement("div")
     homeGridContainer.setAttribute("class", "homeGridContainer")
